@@ -20,7 +20,7 @@
 
 | 文件                 | 版本    |
 |--------------------|-------|
-| [iirose_fortune.py](data/iirose_fortune .py) | 0.0.1 |
+| [iirose_fortune.py](data/iirose_fortune.py) | 0.0.1 |
 
 随插件附带的目录及文件也应放置在/plugins文件夹中
 
